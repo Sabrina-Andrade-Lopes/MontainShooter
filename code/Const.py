@@ -1,2 +1,15 @@
-WIND_WIDTH = 576
+#c
+COLOR_ORANGE = (255, 128, 0)
+COLOR_WHITE = (255, 255, 255)
+
+#M
+MENU_OPTION = ( ' NEW GAME 1P',
+                'NEW GAME 2P - COOPERATIVE',
+                'NEW GAME 2P - COMPETITIVE',
+                'SCORE',
+                'EXIT')
+
+
+#w
+WIN_WIDTH: int = 576
 WIN_HEIGHT = 324
